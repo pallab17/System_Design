@@ -1,0 +1,19 @@
+Certainly! Here's the transcript without timestamps and formatted for easier reading:
+
+---
+
+**Day 01/75: Why System Design is important?**
+
+Welcome to day one of the System Design Essentials. Watch it with patience; I just need one minute of yours, and I promise you won't regret it.
+
+Today, we will understand why tech companies emphasize so much on system design. To comprehend this, we need to understand the business.
+
+A company's revenue is directly proportional to the number of users they have in their service. More users mean more money. Whether it is Facebook, Amazon, Microsoft, Google, all these companies focus on increasing user interaction in their service. The goal is to gradually convert free users into paid ones.
+
+These companies have daily active users in billions. Therefore, their services handle traffic greater than 10^9, for which they require system design experts. System design experts are nothing but architects. They know when the building will collapse and how to avoid it. The core intent is to build stable and scalable systems.
+
+[Link to the video](https://www.youtube.com/watch/a0F1Oros99M)
+
+---
+
+I hope this is helpful! If you have any more requests or questions, feel free to ask.
